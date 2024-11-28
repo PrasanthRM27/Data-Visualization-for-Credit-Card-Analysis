@@ -1,6 +1,7 @@
 # Data-Visualization-for-Credit-Card-Analysis
 **Year-to-Date (YTD) Performance Analysis**
-**Revenue: Total Revenue:** $57M.
+
+**Total Revenue:** $57M.
 
 **Total Interest Income:** $8M.
 
