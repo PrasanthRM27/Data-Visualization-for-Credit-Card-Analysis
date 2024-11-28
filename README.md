@@ -1,4 +1,3 @@
-# Data-Visualization-for-Credit-Card-Analysis
 # Year-to-Date (YTD) Performance Analysis
 
 **Total Revenue:** $57M.
