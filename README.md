@@ -30,9 +30,8 @@ Total Transactions
 Total Interest Earned
 
 ### 4. Interactive Features
-Add slicers for filtering data by:
-  Age Group, Income Group, Week Numbers, Card Categories, and Expenditure Types
-  Enable drill-through and tooltips for detailed analysis.
+Add slicers for filtering data by Week.
+For Age Group, Income Group, Week Numbers, Card Categories and Expenditure Types enable drill-through and tooltips for detailed analysis.
 
 
 
