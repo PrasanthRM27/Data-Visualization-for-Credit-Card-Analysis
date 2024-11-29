@@ -27,13 +27,14 @@ Decimal for `income`
 #### Key Performance Indicators (KPIs)
 Total Revenue
 Total Transactions
-Total Interest Earned
+Total Interest Earned etc.
 
 ### 4. Interactive Features
 Add slicers for filtering data by Week.
 For Age Group, Income Group, Week Numbers, Card Categories and Expenditure Types enable drill-through and tooltips for detailed analysis.
 
-
+### 5. Append the Data
+Append the week 53 data from cc_add & Cust_add and refresh the Dashboard to get the latest Insights.
 
 
 
